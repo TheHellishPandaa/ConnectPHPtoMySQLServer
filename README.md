@@ -56,5 +56,5 @@ Jaime Gálvez Martínez
 
 ## Licencia
 
-Este proyecto está bajo la Licencia Apache 2.0.
+Este proyecto está bajo la Licencia GNU (General Public License).
 
