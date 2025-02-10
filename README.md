@@ -1,69 +1,60 @@
-# ConnectPHPtoMySQLServer
+## ConnectPHPtoMySQLServer
 
 Este es un sistema de gestión de productos y clientes para una tienda, desarrollado en PHP con MySQL. Permite realizar operaciones básicas como agregar, eliminar y listar productos y clientes.
 
-Características
+## Características
 
-Registro y eliminación de clientes.
+- Registro y eliminación de clientes.
 
-Registro y eliminación de productos.
+- Registro y eliminación de productos.
 
-Listado de productos en una tabla.
+- Listado de productos en una tabla.
 
-Interfaz sencilla con formularios para la gestión.
+- Interfaz sencilla con formularios para la gestión.
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 
-PHP
+- PHP
 
-MySQL
+- MySQL
 
-HTML & CSS
+- HTML & CSS
 
-Requisitos
+## Requisitos
 
-Servidor web con PHP (ej. Apache, XAMPP).
+- Servidor web con PHP (ej. Apache, XAMPP).
 
-MySQL o MariaDB.
+- MySQL o MariaDB.
 
-Instalación
+## Instalación
 
 Clona este repositorio:
 ---
-git clone https://github.com/tuusuario/tu-repositorio.git
-
-Configura la base de datos en config.php (si decides separarlo):
+````
+git clone https://github.com/TheHellishPandaa/ConnectPHPtoMYSQLServer.git
+````
+Configura la base de datos
 
 
 Ejecuta el proyecto en un servidor local.
 
-Uso
+## Uso
 
-Accede a la página principal.
+- Accede a la página principal.
 
-Usa los formularios para agregar o eliminar productos y clientes.
+- Usa los formularios para agregar o eliminar productos y clientes.
 
-Visualiza la lista de productos en la tabla.
+- Visualiza la lista de productos en la tabla
 
-Mejoras Futuras
-
-Implementar seguridad con consultas preparadas.
-
-Validaciones en el frontend y backend.
-
-Diseño más atractivo con Bootstrap o TailwindCSS.
-
-Gestión de stock con alertas.
-
-Contribuciones
+## Contribuciones
 
 Si deseas contribuir, haz un fork del proyecto, crea una nueva rama y envía un pull request.
 
-Autor
+## Autor
 
 Jaime Gálvez Martínez
 
-Licencia
+## Licencia
 
-Este proyecto está bajo la Licencia MIT.
+Este proyecto está bajo la Licencia Apache 2.0.
 
