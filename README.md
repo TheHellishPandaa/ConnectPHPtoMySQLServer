@@ -1,4 +1,4 @@
-## ConnectPHPtoMySQLServer
+## GestionProductos
 
 Este es un sistema de gestión de productos y clientes para una tienda, desarrollado en PHP con MySQL. Permite realizar operaciones básicas como agregar, eliminar y listar productos y clientes.
 
