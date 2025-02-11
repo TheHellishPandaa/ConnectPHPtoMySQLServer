@@ -131,8 +131,8 @@ $conn->close();
 <body>
     <h1>Gestión de Productos Tienda Jaime Galvez</h1>
     <nav> | 
-        <a href="tiendajaime4ene2025.php">Clientes</a> | 
-        <a href="BBDDtiendaConTablaProductosJaimeGal4feb2025.php">Productos</a>
+        <a href="gestionclientes.php">Clientes</a> | 
+        <a href="gestionproductos.php">Productos</a>
     </nav>
     
     <div class="form-container">
